@@ -1,2 +1,3 @@
 # grails-talk
-Short Grails intro presentation
+
+Intro Grails presentation

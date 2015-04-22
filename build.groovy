@@ -2,7 +2,7 @@
 
 markdownDir = 'md'
 markdownFilter = { dir, file -> file ==~ /.*\.md$/ } as FilenameFilter
-markdownFiles = new File(markdownDir).list markdownFilter
+markdownFiles = new File(markdownDir).list(markdownFilter).sort()
 
 engine = new groovy.text.SimpleTemplateEngine()
 slide = ' ' * 20 + '<section data-markdown="$dir/$file"></section>'

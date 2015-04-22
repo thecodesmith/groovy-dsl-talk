@@ -1,3 +1,0 @@
-## Popularity
-
-add user graphic

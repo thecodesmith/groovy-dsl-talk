@@ -1,3 +1,3 @@
-# Grails in Action
+## Grails in Action
 
-TODO: get graphic from grails.org
+![Companies using Grails](../img/grails-users.png)

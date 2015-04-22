@@ -1,7 +1,7 @@
-## Philosophy
+## Grails Philosophy
 
 Created for instant productivity
 
 * Convention-over-configuration (no XML!)
-* Sensible defaults
-* Opinionated APIs
+* Sensible defaults - common cases work out of the box
+* Opinionated APIs - logical and consistent

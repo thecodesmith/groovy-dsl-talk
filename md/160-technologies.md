@@ -6,4 +6,3 @@
 * Apache Tomcat servlet container
 * Spring dependency injection
 * Internationalization
-* Transaction service - Spring transaction abstraction

@@ -1,20 +1,8 @@
-# Background
+## Overview
 
 Grails is an open-source web application framework
+[grails.org](http://grails.org)
 
-* Built on the JVM, uses JEE containers
+* Built on the JVM and Spring
 * Uses the Groovy programming language
-* Convention-over-configuration
-* Created to increase developer productivity
-* Designed to be easy to learn
-* Sensible defaults
-* Opinionated APIs
-
-* Plugins
-* IDE Support
-    - Eclipse
-    - IntelliJ
-    - Groovy/Grails Tool Suite
-* Domain Specific Languages
-* Meta-programming
-* Asynchronous programming
+* Flat learning curve (especially for Java devs)

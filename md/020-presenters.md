@@ -1,3 +1,3 @@
-* Bryce Anderson
-* Seokhyun Je
-* Brian Stewart
+## Speakers
+
+Bryce Anderson, Seokhyun Je and Brian Stewart

@@ -1,4 +1,4 @@
-# Technologies
+## Technologies
 
 * Groovy Server Pages (GSP) - view technology
 * GORM - Object Relational Mapping - Hibernate 

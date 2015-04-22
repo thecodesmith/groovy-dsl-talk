@@ -1,6 +1,6 @@
 ## Technologies
 
-### Groovy Server Pages (GSP) - view technology
+### Groovy Server Pages (GSPs)
 
 Similar to JSPs, but more flexible and intuitive
 
@@ -18,6 +18,7 @@ Simple GSP tag examples:
 <g:each in="${books}" var="book">
     <p>Book: ${book.title} by ${book.author}
 </g:each>
+
 
 <g:findAll in="${books}" expr="it.author == 'J.R.R. Tolkien'">
     <p>Title: ${it.title}

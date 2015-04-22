@@ -1,7 +1,8 @@
 ## Technologies
 
-XmlBuilder - Concise syntax for creating XML
+### XmlBuilder
 
+Concise syntax for creating XML
 ```
 class BookController {
 
@@ -11,7 +12,7 @@ class BookController {
         render (contentType: "text/xml") {
             books {
                 for (b in results) {
-                    book(title: b.title)
+                    book(title: b.title, author: b.author)
                 }
             }
         }

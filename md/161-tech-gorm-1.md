@@ -1,6 +1,6 @@
 ## Technologies
 
-GORM - Object Relational Mapping
+### GORM - Object Relational Mapping
 
 ```
 class Book {
@@ -19,8 +19,6 @@ class Book {
 ```
 class Author {
     String name
-    
     static hasMany = [books: Book]
 }
 ```
-

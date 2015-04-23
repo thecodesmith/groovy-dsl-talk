@@ -1,4 +1,4 @@
-## Technologies
+## Grails Technologies
 
 ### Groovy Server Pages (GSPs)
 

@@ -1,4 +1,4 @@
-## Technologies
+## Grails Technologies
 
 ### GORM - Object Relational Mapping
 

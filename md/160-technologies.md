@@ -1,4 +1,4 @@
-## Technologies
+## Grails Technologies
 
 * Grails Object-Relational Mapping - built on Hibernate
 * Groovy Server Pages (GSPs) - powerful view technology

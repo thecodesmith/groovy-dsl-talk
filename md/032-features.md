@@ -7,3 +7,4 @@
     - Groovy/Grails Tool Suite
 * Highly expressive syntax: Domain Specific Languages
 * Reactive model: asynchronous programming
+* Internationalization

@@ -1,11 +1,11 @@
 ## Technologies
 
-<table>
-    <tr><td>Groovy Server Pages (GSPs)</td></tr>
-    <tr><td>Grails Object-Relational Mapping (GORM)</td><td>![Hibernate](../img/hibernate-logo.png)</td></tr>
-    <tr><td>Controller layer built on Spring MVC</td><td>![Spring](../img/spring-logo.png)</td></tr>
-</table>
-
+* Grails Object-Relational Mapping - built on Hibernate
+* Groovy Server Pages (GSPs) - powerful view technology
 * Apache Tomcat servlet container
-* Spring dependency injection
-* Internationalization
+* Spring MVC-powered Controller layer
+
+<p>
+<img src="../img/tomcat-logo.png" height="100"/>
+<img src="../img/spring-logo.png" height="100"/>
+<img src="../img/hibernate-logo.png" height="100"/>

@@ -8,4 +8,8 @@ Main Features:
 * REST support with JsonBuilder and XmlBuilder
 * Support for easy to use Filters: 
 
-`User.findAll { user -> user.name == 'Joe' }`
+```
+User.findAll { user -> user.name == "Joe" }
+
+User.findById(31)
+```

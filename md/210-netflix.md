@@ -1,4 +1,4 @@
-![Netflix](../img/netflix-logo.png)
+![Netflix](img/netflix-logo.png)
 
 * Netflix handles 35% of the US internet bandwidth
 * Uses Grails microservices across all infrastructure

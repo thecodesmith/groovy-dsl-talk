@@ -1,6 +1,6 @@
 # Grails Framework
 
-_Intro to Grails Presentation_
+_Introductory Grails presentation_
 
 ## Resources
 

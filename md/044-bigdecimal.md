@@ -1,6 +1,6 @@
 ## BigDecimal by Default
 
-### Simple interpolation equation example
+Example: Simple interpolation equation
 
 Java
 ```
@@ -13,4 +13,6 @@ return e.multiply(uMinusV)
 ```
 
 Groovy
+```
 (d * (b - c) + e * (c - a)) / (a - b)
+```

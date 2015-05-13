@@ -3,13 +3,19 @@
 ### Usages
 
 Currency
-`15.euros + 10.dollars`
+```
+15.euros + 10.dollars
+```
 
 Distances
-`10.miles * 3 == 30.miles`
+```
+10.miles * 3 == 30.miles
+```
 
 Workflow and Concurrency
-`taskA | taskB & taskC`
+```
+taskA | taskB & taskC
+```
 
 Credit an account
 ```

@@ -6,10 +6,9 @@ Example: Custom control structures
 
 ```
 // method taking a closure:
-def unless(boolean condition, Closure action) {
-    ... 
+def unless(Boolean condition, Closure action) {
+    log.info "Executing action" 
     action()
-    ... 
 }
 
 // usage:

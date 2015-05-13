@@ -1,7 +1,11 @@
 ## Optional Parens & Semicolons
 
 Java
-`move(left);`
+```
+move(left);
+```
 
 Groovy
-`move left`
+```
+move left
+```

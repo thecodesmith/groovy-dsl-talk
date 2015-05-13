@@ -1,13 +1,17 @@
 ## Native Constructs
 
 Lists
-`[Monday, Tuesday, Wednesday]`
+```
+def days = [Monday, Tuesday, Wednesday]
+```
 
 Maps
-`[WI: 'Wisconsin', TX: 'Texas']`
+```
+def states = [WI: 'Wisconsin', TX: 'Texas']
+```
 
 Ranges
 ```
-bizDays = Monday..Friday
-allowedAge = 18..65
+def weekdays = Monday..Friday
+def allowedAge = 18..65
 ```

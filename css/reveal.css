@@ -332,9 +332,10 @@ body {
 }
 .reveal code {
 	font-family: monospace;
+    font-size: 120%;
 }
 .reveal pre code {
-	padding: 5px;
+	padding: 10px;
 	overflow: auto;
 	max-height: 400px;
 	word-wrap: normal;

@@ -1,11 +1,11 @@
 ## Optional typing
 
-Java:
+Java
 ```
 Rate<LoanType, Duration, BigDecimal>[] table() { ... }
 ```
 
-Groovy:
+Groovy
 ```
 def table() { ... }
 ```

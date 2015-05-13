@@ -333,6 +333,7 @@ body {
 .reveal code {
 	font-family: monospace;
     font-size: 120%;
+    line-height: 120%;
 }
 .reveal pre code {
 	padding: 10px;

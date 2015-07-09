@@ -1,4 +1,4 @@
-## Optional typing
+## Optional Typing
 
 Java
 ```
